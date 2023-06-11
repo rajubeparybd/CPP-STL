@@ -5,3 +5,4 @@ set(CMAKE_CXX_STANDARD 14)
 
 add_executable(CPP_STL main.cpp)
 add_executable(Array array.cpp)
+add_executable(Vector vector.cpp)
